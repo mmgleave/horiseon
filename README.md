@@ -1,7 +1,7 @@
 # Code Refactor Starter Code
 
 ## Website
-www.mmgleave.github.io/horiseon
+https://mmgleave.github.io/horiseon/
 
 ## Description
 Starter code has been refactored to improve structure, make css more consise, make minor corrections, and meet accessibility standards.
