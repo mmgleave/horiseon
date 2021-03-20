@@ -1,4 +1,4 @@
-# Code Refactor Starter Code
+# Horiseon Refactor
 
 ## Website
 https://mmgleave.github.io/horiseon/
