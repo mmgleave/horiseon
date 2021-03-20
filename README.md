@@ -8,8 +8,9 @@ Starter code has been refactored to improve structure, make css more consise, ma
 
 ## Screenshots
 
-<img src="./assets/images/horiseon-1">
-<img src="./assets/images/horiseon-2">
+![Image-1](assets/images/horiseon-1.png)
+
+![Image-2](assets/images/horiseon-2.png)
 
 ## Contribution
 Made with ❤️ by Michelle Gleave
